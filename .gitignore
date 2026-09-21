@@ -1,0 +1,18 @@
+# disk images and archives
+*.img
+*.img.gz
+*.dd
+*.zip
+*.gz
+*.tar.gz
+
+# challenge files and results
+*.enc
+decrypted*
+*.pcap
+*.pcapng
+
+# python
+__pycache__/
+*.pyc
+.env
